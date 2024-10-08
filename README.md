@@ -4,17 +4,19 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelsheemy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsheemy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudelsheemy" alt="mahmoudelsheemy" /></a> </p>
+<p>About me..</p>
 
 - 🧑‍💻 I am a **software engineer**
-
+  
+- - 📆 I have over **three** `years` of experience.
+    
 - 💼 Working as a **full stack developer on Upwork and Freelancer**
 
 - 👯 I joined the department **Computer Science**
 
-- 🌐 Working as a **front-end developer**
+- 🌐 Working as a **front-end developer** , use `React.js`, For server-side development, I use `Node.js`, `Express.js
+-  and have completed many projects with it
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudELsheemy](https://github.com/MahmoudELsheemy)
 
