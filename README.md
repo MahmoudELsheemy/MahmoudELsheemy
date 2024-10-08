@@ -30,6 +30,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/mahmoudelsheemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudelsheemy" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoud.elsheemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elsheemy" height="30" width="40" /></a>
+  <a href="mailto:mahmoudelsheemy164@gmail.com" >
+    <img align="center" alt="ashu-guo | Gmail" width="35px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
