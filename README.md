@@ -8,13 +8,13 @@
 
 - 🧑‍💻 I am a **software engineer**
   
--  📆 I have over **three** `years` of experience.
+- 👯 I joined the department **Computer Science**
   
--  🔍 Solved over **200 problem-solving challenges** using **C++**
+- 🔍 Solved over **200 problem-solving challenges** using **C++**
+  
+-  📆 I have over **three** `years` of experience.
     
 - 💼 Working as a **full stack developer on Upwork and Freelancer**
-
-- 👯 I joined the department **Computer Science**
 
 - 🌐 Working as a **front-end developer** , use `React.js`, For server-side development, I use `Node.js`, `Express.js
 -  and have completed many projects with it
