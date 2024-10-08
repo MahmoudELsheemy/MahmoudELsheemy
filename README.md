@@ -8,7 +8,9 @@
 
 - 🧑‍💻 I am a **software engineer**
   
-- - 📆 I have over **three** `years` of experience.
+-  📆 I have over **three** `years` of experience.
+  
+-  🔍 Solved over **200 problem-solving challenges** using **C++**
     
 - 💼 Working as a **full stack developer on Upwork and Freelancer**
 
@@ -16,7 +18,6 @@
 
 - 🌐 Working as a **front-end developer** , use `React.js`, For server-side development, I use `Node.js`, `Express.js
 -  and have completed many projects with it
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudELsheemy](https://github.com/MahmoudELsheemy)
 
