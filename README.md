@@ -8,11 +8,11 @@
 
 - 🧑‍💻 I am a `software engineer`
   
-- 👯 I joined the department of **Computer Science**
+- 👯 I joined the department of `Computer Science`
   
-- 🔍 Solved over 200 problem-solving challenges** using `C++`
+- 🔍 Solved over `300` problem-solving challenges** using `C++`
     
-- 💼 Working as a **full stack developer**
+- 💼 Working as a `full stack developer`
 
 - 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js`                     
    and have completed many projects with it
@@ -21,7 +21,7 @@
 
 - 🚀 I find it easy to [learn new technologies quickly and switch between programming languages, libraries, and frameworks with ease.]
   
-- 📫 How to reach me **mahmoudelsheemy164@gmail.com**
+- 📫 How to reach me `mahmoudelsheemy164@gmail.com`
 
 
 <h3 align="left">Connect with me:</h3>
