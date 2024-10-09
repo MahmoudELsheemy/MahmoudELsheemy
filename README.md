@@ -14,7 +14,7 @@
     
 - 💼 Working as a **full stack developer**
 
-- 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js
+- 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js                     
    and have completed many projects with it
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudELsheemy](https://github.com/MahmoudELsheemy)
