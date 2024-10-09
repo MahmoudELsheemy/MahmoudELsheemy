@@ -6,15 +6,15 @@
 
 <p>About me..</p>
 
-- 🧑‍💻 I am a **software engineer**
+- 🧑‍💻 I am a `software engineer`
   
 - 👯 I joined the department of **Computer Science**
   
-- 🔍 Solved over **200 problem-solving challenges** using **C++**
+- 🔍 Solved over 200 problem-solving challenges** using `C++`
     
 - 💼 Working as a **full stack developer**
 
-- 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js                     
+- 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js`                     
    and have completed many projects with it
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudELsheemy](https://github.com/MahmoudELsheemy)
