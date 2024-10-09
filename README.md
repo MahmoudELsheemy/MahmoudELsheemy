@@ -44,5 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudelsheemy&show_icons=true&locale=en" alt="mahmoudelsheemy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudelsheemy&" alt="mahmoudelsheemy" /></p>
 </div>
