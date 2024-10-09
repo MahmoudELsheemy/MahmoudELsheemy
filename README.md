@@ -8,21 +8,19 @@
 
 - 🧑‍💻 I am a **software engineer**
   
-- 👯 I joined the department **Computer Science**
+- 👯 I joined the department of **Computer Science**
   
 - 🔍 Solved over **200 problem-solving challenges** using **C++**
-  
--  📆 I have over **three** `years` of experience.
     
-- 💼 Working as a **full stack developer on Upwork and Freelancer**
+- 💼 Working as a **full stack developer**
 
-- 🌐 Working as a **front-end developer** , use `React.js`, For server-side development, I use `Node.js`, `Express.js
--  and have completed many projects with it
+- 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js
+   and have completed many projects with it
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudELsheemy](https://github.com/MahmoudELsheemy)
 
-- 🚀 I find it easy to [learn new technologies quickly and switch between programming languages, libraries, and frameworks with ease.](learn new technologies quickly and switch between programming languages, libraries, and frameworks with ease.)
-
+- 🚀 I find it easy to [learn new technologies quickly and switch between programming languages, libraries, and frameworks with ease.]
+  
 - 📫 How to reach me **mahmoudelsheemy164@gmail.com**
 
 
