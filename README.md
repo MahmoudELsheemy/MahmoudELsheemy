@@ -16,8 +16,13 @@
 
 - 🌐 Working as a **front-end developer** useing `React.js`, For server-side development i use `Node.js`, `Express.js`                     
    and have completed many projects with it
+  
+-🗄️ I work with SQL databases like MySQL , NoSQL databases like MongoDB.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudELsheemy](https://github.com/MahmoudELsheemy)
+  
+- 🔍 Solved over 300 problem-solving challenges using C++.
+- 💡 Proficient in Data Structures.
 
 - 🚀 I find it easy to [learn new technologies quickly and switch between programming languages, libraries, and frameworks with ease.]
   
